@@ -196,7 +196,7 @@ footer a {
     
     
     nav li {
-        display: inline;
+        display: inline-block;
         padding-inline:5px;
         
     }
@@ -256,6 +256,11 @@ footer a {
     aside div p{
         font-size: 1.3rem;
     }
+
+    .second-p{
+        margin-bottom:11px ;
+    }
+
      footer{
         font-size: 1.4rem;
      }
